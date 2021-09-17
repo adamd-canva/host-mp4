@@ -1,3 +1,5 @@
 {
-  "c.web.version": "0.0.12"
+  "c.web": {
+    "version": "0.0.12"
+  }
 }
